@@ -15,4 +15,3 @@ public class Factory {
         // code factory o day
     }
 }
-
